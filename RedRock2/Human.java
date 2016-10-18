@@ -1,4 +1,4 @@
-package 红岩2;
+package RedRock2;
 
 /**
  * Created by AJDX3906 on 2016/10/17.

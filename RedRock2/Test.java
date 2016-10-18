@@ -1,4 +1,4 @@
-package 红岩2;
+package RedRock2;
 
 import java.math.BigInteger;
 
@@ -17,7 +17,6 @@ public class Test {
         this.a= start;
         this.b=end;
         this.prin = num.toString().substring(a, b);
-
         return prin;
     }
 
