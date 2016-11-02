@@ -1,4 +1,4 @@
-package imooc.FirstTry;
+package RedRock4;
 
 /**
  * Created by AJDX3906 on 2016/11/2.
